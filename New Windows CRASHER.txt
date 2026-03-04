@@ -1,4 +1,4 @@
-REM This ChromeOS was made by thekillerofthemars
+REM This script was made by thekillerofthemars
 REM On GitHub: https://github.com/thekillerofthemars
 
 CTRL n
